@@ -6,6 +6,5 @@ function subtractFive(num) {
 subtractFive(15);
 subtractFive(23);
 
-
 // Do not edit this line;
 module.exports = subtractFive; 
