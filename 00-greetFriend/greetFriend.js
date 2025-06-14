@@ -1,7 +1,6 @@
 function greetFriend(name) {
   // Insert code here;
-  // Hello World
+  console.log(`Hello, ${name}!`);
 }
-
-// Do not edit this line;
-module.exports = greetFriend;
+// Do not edit this line; 
+module.exports = greetFriend; 
