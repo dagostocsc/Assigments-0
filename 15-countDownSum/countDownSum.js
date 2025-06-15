@@ -1,6 +1,6 @@
 class MySolution {
   countDownSum(num) {
-    // Insert code here;
+    
   }
 }
 
