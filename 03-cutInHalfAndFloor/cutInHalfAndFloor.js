@@ -6,5 +6,5 @@ function cutInHalfAndFloor(num) {
 cutInHalfAndFloor(22);
 cutInHalfAndFloor(99);
 
-// Do not edit this line;
+// Do not edit this line; 
 module.exports = cutInHalfAndFloor;
